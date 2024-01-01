@@ -1,4 +1,4 @@
-package seminar1;
+package src.seminar1;
 
 public class Task1new {
 

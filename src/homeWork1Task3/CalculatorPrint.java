@@ -1,4 +1,4 @@
-package homeWork1Task3;
+package src.homeWork1Task3;
 
 import java.text.DecimalFormat;
 

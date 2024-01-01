@@ -1,4 +1,4 @@
-package seminar1;
+package src.seminar1;
 
 import java.util.Arrays;
 import java.util.List;

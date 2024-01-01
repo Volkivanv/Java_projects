@@ -1,4 +1,4 @@
-package homeWork1Task2;
+package src.homeWork1Task2;
 
 import java.util.ArrayList;
 import java.util.List;
