@@ -18,13 +18,11 @@ class PhoneBook {
 
         if (phoneBook.containsKey(name)) {
             phoneBook.get(name).addPhone(phoneNum);
-            printPhoneBook();
         } else {
             Person p = new Person(name);
             p.clear();
             p.addPhone(phoneNum);
             phoneBook.put(name, p);
-            printPhoneBook();
         }
 
     }
@@ -46,9 +44,6 @@ class PhoneBook {
             System.out.println(p);
         }
 
-//        for (Person p : phoneBook.values()) {
-//            System.out.println(p);
-//        }
         System.out.println("--------------------------------");
 
     }
